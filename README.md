@@ -33,6 +33,6 @@ Apaixonado por tecnologia, amante de jogos, nerd que adora maratonar séries e f
     <img align="center" alt="Gabriel-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">    
 </div><br/>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielAugustoFerreiraMaia/GabrielAugustoFerreiraMaia/blob/output/github-contribution-grid-snake.svg)
 
 
