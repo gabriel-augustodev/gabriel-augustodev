@@ -30,5 +30,8 @@ Apaixonado por tecnologia, amante de jogos, nerd que adora maratonar séries e f
 <div style="display: inline_block"><br/>
     <img align="center" alt="Gabriel-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Gabriel-godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
-    <img align="center" alt="Gabriel-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Gabriel-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">    
 </div><br/>
+![Snake animation](https://github.com/GabrielAugustoFerreiraMaia/GabrielAugustoFerreiraMaia/blob/output/github-contribution-grid-snake.svg)
+
+
