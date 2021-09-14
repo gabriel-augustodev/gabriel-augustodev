@@ -24,7 +24,7 @@ Apaixonado por tecnologia, amante de jogos, nerd que adora maratonar séries e f
 
 
 ### Tecnologias mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugustoFerreiraMaia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugustoFerreiraMaia&theme=dark)](https://github.com/GabrielAugustoFerreiraMaia?tab=repositories)
 
 ### Tecnologias que estudo
 <div style="display: inline_block"><br/>
