@@ -24,7 +24,7 @@ Apaixonado por tecnologia, amante de jogos, nerd que adora maratonar séries e f
 
 
 ### Tecnologias mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugustoFerreiraMaia&theme=dark)](https://github.com/GabrielAugustoFerreiraMaia?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-augustodev&theme=dark)](https://github.com/GabrielAugustoFerreiraMaia?tab=repositories)
 
 ### Tecnologias que estudo
 <div style="display: inline_block"><br/>
@@ -33,6 +33,6 @@ Apaixonado por tecnologia, amante de jogos, nerd que adora maratonar séries e f
     <img align="center" alt="Gabriel-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">    
 </div><br/>
 
-![Snake animation](https://github.com/GabrielAugustoFerreiraMaia/GabrielAugustoFerreiraMaia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabriel-augustodev/gabriel-augustodev/blob/output/github-contribution-grid-snake.svg)
 
 
